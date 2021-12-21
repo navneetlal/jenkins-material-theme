@@ -1,0 +1,14 @@
+{
+  "name": "jenkins-core-theme",
+  "version": "1.1.41",
+  "description": "Base for Awesome Jenkins themes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenkins-contrib-themes/jenkins-core-theme"
+  },
+  "keywords": [
+    "jenkins theme"
+  ],
+  "author": "Afonso F",
+  "license": "MIT"
+}
